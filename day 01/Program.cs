@@ -6,12 +6,14 @@ namespace day_01
     {
         static void Main(string[] args)
         {
-            int num,i;
-            for (i = 0; i < 10; i++)
+           
+            for (int i = 0; i < 100; i++)
             {
-                if (num % 2 == 0)
+                if (i % 2 != 0)
                 {
                     continue;
+                    Console.WriteLine(i);
+
                 }
             }
         }
