@@ -6,10 +6,13 @@ namespace practical_02
 {
     class ConvertValues
     {
-        public void kilometerTOmeter(int d)
+        public void kilometerTOmeter()
         {
-            int InMeters = d * 1000;
-            Console.WriteLine(d + "=>" + InMeters);
+            Console.WriteLine("Enter distence in Kilo Meters : ");
+            int distence = int.Parse(Console.ReadLine());
+
+            int InMeters = distence * 1000;
+            Console.WriteLine(distence + "=>" + InMeters);
         }
     }
 }
