@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Lectues\\C#\\day 01\\day 01\\day 01.csproj",
-      "projectName": "day 01",
-      "projectPath": "E:\\Lectues\\C#\\day 01\\day 01\\day 01.csproj",
+      "projectUniqueName": "C:\\Users\\Prineth\\source\\repos\\Q1\\Q1\\Q1.csproj",
+      "projectName": "Q1",
+      "projectPath": "C:\\Users\\Prineth\\source\\repos\\Q1\\Q1\\Q1.csproj",
       "packagesPath": "C:\\Users\\Prineth\\.nuget\\packages\\",
-      "outputPath": "E:\\Lectues\\C#\\day 01\\day 01\\obj\\",
+      "outputPath": "C:\\Users\\Prineth\\source\\repos\\Q1\\Q1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Prineth\\AppData\\Roaming\\NuGet\\NuGet.Config",
