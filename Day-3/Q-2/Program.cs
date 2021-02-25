@@ -6,9 +6,10 @@ namespace Q1
     {
         static void Main(string[] args)
         {
-            MyClass obj = new MyClass();
-            obj.MyFunction();
+            UserInput user = new UserInput();
+            user.MyFunction();
 
+  
             Console.Read();
         }
     }
